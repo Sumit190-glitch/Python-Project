@@ -67,7 +67,7 @@ Learning Python is the base for my work in **Data Science, Machine Learning and 
 ## 👤 Author
 
 **Sumit Yalmar**
-CSE student, SVERI's College of Engineering, Pandharpur
+Computer Science & Engineering student | Data Science & ML
 
 [LinkedIn](https://www.linkedin.com/in/sumit-yalmar-57a5912b1/) · [GitHub](https://github.com/Sumit190-glitch) · [CodeChef](https://www.codechef.com/users/sumit_yalmar24)
 
